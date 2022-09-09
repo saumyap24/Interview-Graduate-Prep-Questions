@@ -19,4 +19,4 @@
   * [Top 75 Questions](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) 
 
 ### Coding questions already asked at Interviews
-   * [Coin Change - at Amazon](https://leetcode.com/problems/coin-change/)
+   * [Coin Change - at Amazon onsite Interview](https://leetcode.com/problems/coin-change/)
