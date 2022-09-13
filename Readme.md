@@ -22,3 +22,6 @@
 
 ### Coding questions already asked at Interviews
    * [Coin Change - at Amazon onsite Interview](https://leetcode.com/problems/coin-change/)
+
+### For Licenses and Certifications
+   * [AWS Training and certifications](https://aws.amazon.com/blogs/training-and-certification/new-courses-and-updates-from-aws-training-and-certification-in-july-2022/?sc_channel=sm&sc_campaign=AWS_Training_and_Certification&sc_publisher=LINKEDIN&sc_geo=GLOBAL&sc_outcome=adoption&sc_content=TRAINCERT-BLOG&trk=adad5497-1031-4c6f-940b-d802d61382bb)
