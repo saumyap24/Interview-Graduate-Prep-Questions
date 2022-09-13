@@ -4,9 +4,11 @@
   * [Whiteboarding](https://writing.pupius.co.uk/whiteboarding-4df873dbba2e#.hf6jn45g1)
   * [How did I get into FAANG level company](https://www.linkedin.com/pulse/how-did-i-get-faang-level-company-preparation-dinesh-varyani/?trackingId=SwWvld40r3JdQ5o4%2B7lctg%3D%3D)
 
-### DSA video prep in Python
+### DSA video/Notes prep 
   * [Complete 250 Leetcode questions by Fraz](https://www.youtube.com/watch?v=NXQi_g1pVqI)
   * [Dynamic Programming by Aditya Verma ~~ Hindi](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=1)
+  * [Dynamic Programming notes by VikramAditya](https://takeuforward.org/data-structure/dynamic-programming-introduction/)
+  * [DSA in Python](https://www.youtube.com/watch?v=pkYVOmU3MgA)
 
 ### Practise 
   * [Interview Series](https://practice.geeksforgeeks.org/events/rec/interview-series?utm_source=linkedin&utm_medium=collab_shailja_captioncomment&utm_campaign=interviewseries)
