@@ -28,7 +28,8 @@
 ### Leetcode Coding Questions
   * [Top 75 Questions](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) 
   * [Top &5 Questions Video Explaination](https://www.youtube.com/watch?v=KLlXCFG5TnA&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf)
-
+  * [Don't just follow Leetcode follow coding patterns instead](https://levelup.gitconnected.com/dont-just-leetcode-follow-the-coding-patterns-instead-4beb6a197fdb)
+  
 ### Coding questions already asked at Interviews
    * [Coin Change - at Amazon onsite Interview](https://leetcode.com/problems/coin-change/)
 
